@@ -1,0 +1,7 @@
+This code was written with help, following along lsh's developer "brenns10" on GitHub's tutorial intro to shell creation.
+I appreciate his resource(s) and wish to extend thanks his way for being an excellent member of the code ecosystem.
+Most of the code in qish is borrowed in concept, some lines directly lifted (formatted differently to fit my preferred bracing style) and spliced in. A huge majority is his documentation.
+However, as he states in his lsh's README.md, lsh (and the tutorial) was intended to be a base to work off of for people wishing to learn (a) shell framework.
+--
+A quick disclaimer:
+brenns10's code was distributed under the UNLICENSE. My [fork] version will be MIT for ease.
