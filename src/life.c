@@ -1,3 +1,4 @@
+#include <realloc.h>
 int main(int argc, char **argv)	{
 		//confloader
 	0;
